@@ -1,4 +1,4 @@
-package com.suddenh4x.ratingdialog.buttons
+ package com.suddenh4x.ratingdialog.buttons
 
 import androidx.annotation.StringRes
 import java.io.Serializable
